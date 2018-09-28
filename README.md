@@ -1,7 +1,13 @@
 ### Growth Mindset
 
-The harder a task or an undertaking is, the more I stand to grow as a result of doing it — even if I don’t do it perfectly.
+### Favourites/Recommended Reads
+- [ ] [How to Grow as an Engineer (Working Remotely)](https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e)
+- [ ] [You Are Not Paid to Write Code](https://bravenewgeek.com/you-are-not-paid-to-write-code/)
+- [ ] [Succeeding Remotely](https://medium.com/@yanismydj/succeeding-remotely-a10e404aa78d)
+- [ ] [Working remotely, 4 years in](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/)
+- [ ] [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
 
+The harder a task or an undertaking is, the more I stand to grow as a result of doing it — even if I don’t do it perfectly.
 
 ### September 2018
 - [ ] [Scala’s Types of Types](https://ktoso.github.io/scala-types-of-types/)
@@ -34,6 +40,7 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Deep Dive: Performance Tuning in Production](https://www.youtube.com/watch?v=-aIGErebptM&t=4s)
 - [ ] [Profilers are lying hobbitses](https://www.youtube.com/watch?v=7IkHIqPeFjY&feature=youtu.be)
 - [ ] [Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and XML](https://ileriseviye.wordpress.com/2018/07/10/data-processing-resources-command-line-interface-cli-for-csv-tsv-json-and-xml/)
+- [ ] [Monitoring Isn't Observability](https://www.vividcortex.com/blog/monitoring-isnt-observability)
 - [ ] [Making your Akka Streams robust](https://medium.com/codestar-blog/making-your-akka-streams-robust-5305a031fecd)
 
 

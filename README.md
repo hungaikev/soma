@@ -1,5 +1,3 @@
-# soma
-
 ### Growth Mindset
 
 The harder a task or an undertaking is, the more I stand to grow as a result of doing it — even if I don’t do it perfectly.
@@ -36,4 +34,6 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Deep Dive: Performance Tuning in Production](https://www.youtube.com/watch?v=-aIGErebptM&t=4s)
 - [ ] [Profilers are lying hobbitses](https://www.youtube.com/watch?v=7IkHIqPeFjY&feature=youtu.be)
 - [ ] [Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and XML](https://ileriseviye.wordpress.com/2018/07/10/data-processing-resources-command-line-interface-cli-for-csv-tsv-json-and-xml/)
+- [ ] [Making your Akka Streams robust](https://medium.com/codestar-blog/making-your-akka-streams-robust-5305a031fecd)
+
 

@@ -10,8 +10,6 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
 - [ ] [How to understand any programming task](https://medium.freecodecamp.org/how-to-understand-any-programming-task-aea41eabe66e)
 
-
-### September 2018
 - [ ] [Scala’s Types of Types](https://ktoso.github.io/scala-types-of-types/)
 - [ ] [Functional Data Structures](https://cs.uwaterloo.ca/~plragde/flaneries/FDS/)
 - [ ] [Functional Programming for Mortals](https://leanpub.com/fpmortals/read)
@@ -44,5 +42,15 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and XML](https://ileriseviye.wordpress.com/2018/07/10/data-processing-resources-command-line-interface-cli-for-csv-tsv-json-and-xml/)
 - [ ] [Monitoring Isn't Observability](https://www.vividcortex.com/blog/monitoring-isnt-observability)
 - [ ] [Making your Akka Streams robust](https://medium.com/codestar-blog/making-your-akka-streams-robust-5305a031fecd)
+
+- [ ] [Online reconstruction of structural information from datacenter logs](https://blog.acolyer.org/2017/05/31/online-reconstruction-of-structural-information-from-datacenter-logs/)
+- [ ] [Canopy: an end-to-end performance tracing and analysis system](https://blog.acolyer.org/2017/11/22/canopy-an-end-to-end-performance-tracing-and-analysis-system/)
+- [ ] [My VM is lighter (and safer) than your container](https://blog.acolyer.org/2017/11/02/my-vm-is-lighter-and-safer-than-your-container/)
+- [ ] [MacroBase: Analytic Monitoring for the Internet of Things](https://blog.acolyer.org/2016/03/16/macrobase-analytic-monitoring-for-the-internet-of-things/)
+- [ ] [Data on the Outside versus Data on the Inside](https://blog.acolyer.org/2016/09/13/data-on-the-outside-versus-data-on-the-inside/)
+- [ ] [The Case for Learned Index Structures](https://www.arxiv-vanity.com/papers/1712.01208/)
+- [ ] [Tail attacks on web applications](https://blog.acolyer.org/2017/12/11/tail-attacks-on-web-applications/)
+- [ ] [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+
 
 

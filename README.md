@@ -51,6 +51,12 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [The Case for Learned Index Structures](https://www.arxiv-vanity.com/papers/1712.01208/)
 - [ ] [Tail attacks on web applications](https://blog.acolyer.org/2017/12/11/tail-attacks-on-web-applications/)
 - [ ] [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+- [ ] [Design Patterns in API Gateways and Microservices](https://www.javacodegeeks.com/2017/10/design-patterns-api-gateways-microservices.html)
+- [ ] [Uniform Resource Identifier (URI): Generic Syntax](https://tools.ietf.org/html/rfc3986)
+- [ ] [Media Type Specifications and Registration Procedures](https://tools.ietf.org/html/rfc6838)
+- [ ] [Azure DevOps Postmortem: VSTS 4 September 2018](https://blogs.msdn.microsoft.com/vsoservice/?p=17485)
+- [ ] [Customized regression model for Airbnb dynamic pricing](https://blog.acolyer.org/2018/10/03/customized-regression-model-for-airbnb-dynamic-pricing/)
+
 
 
 

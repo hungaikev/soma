@@ -31,6 +31,7 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)
 - [ ] [etcdctl](https://github.com/yudai/etcd/tree/master/etcdctl#snapshot-save-filename)
 - [ ] [Everything you ever wanted to know about using etcd with Kubernetes v1.6 (but were afraid to ask)](https://www.mirantis.com/blog/everything-you-ever-wanted-to-know-about-using-etcd-with-kubernetes-v1-6-but-were-afraid-to-ask/)
+- [ ] [Racy conntrack and DNS lookup timeouts](https://www.weave.works/blog/racy-conntrack-and-dns-lookup-timeouts)
 - [ ] [Cloud Native Engineering](https://github.com/gofunct/cloudnative-engineer/#cloud-native-engineering)
 - [ ] [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-red-hat-do081x)
 - [ ] [Running akka-cluster on Kubernetes](https://blog.softwaremill.com/running-akka-cluster-on-kubernetes-e4cd2913e951)

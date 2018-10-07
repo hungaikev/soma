@@ -74,6 +74,8 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Move Cassandra 2.1 to G1 garbage collector](https://medium.com/@mlowicki/move-cassandra-2-1-to-g1-garbage-collector-b9fb27365509)
 - [ ] [Amy's Cassandra 2.1 tuning guide](https://tobert.github.io/pages/als-cassandra-21-tuning-guide.html)
 - [ ] [Lessons learned from moving my side project to Kubernetes](https://hackernoon.com/lessons-learned-from-moving-my-side-project-to-kubernetes-c28161a16c69)
+- [ ] [I know you’ll be back: interpretable new user clustering and churn prediction on a mobile social application](https://blog.acolyer.org/2018/10/05/i-know-youll-be-back-interpretable-new-user-clustering-and-churn-prediction-on-a-mobile-social-application/)
+
 
 
 

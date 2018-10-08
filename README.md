@@ -75,7 +75,21 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Amy's Cassandra 2.1 tuning guide](https://tobert.github.io/pages/als-cassandra-21-tuning-guide.html)
 - [ ] [Lessons learned from moving my side project to Kubernetes](https://hackernoon.com/lessons-learned-from-moving-my-side-project-to-kubernetes-c28161a16c69)
 - [ ] [I know you’ll be back: interpretable new user clustering and churn prediction on a mobile social application](https://blog.acolyer.org/2018/10/05/i-know-youll-be-back-interpretable-new-user-clustering-and-churn-prediction-on-a-mobile-social-application/)
-
+- [ ] [IO & Logging Capabilities](https://blog.vlovgr.se/post/2018-09-24-io-and-logging-capabilities/)
+- [ ] [Elevator Control System using ZIO](https://medium.com/@wiemzin/elevator-control-system-using-zio-c718ae423c58)
+- [ ] [Writing a Daytime Server with Akka Streams](https://markatta.com/codemonkey/posts/akka-daytime-server/)
+- [ ] [Model correctly and write less code, using Akka Streams](https://blogoloquy.blogspot.com/2018/09/model-correctly-and-write-less-code.html?m=1)
+- [ ] [Lightweight docker containers for Scala apps](https://medium.com/jeroen-rosenberg/lightweight-docker-containers-for-scala-apps-11b99cf1a666)
+- [ ] [Integrating Akka Streams and Akka Actors: Part I](https://blog.colinbreck.com/integrating-akka-streams-and-akka-actors-part-i/)
+- [ ] [Integrating Akka Streams and Akka Actors: Part II](https://blog.colinbreck.com/integrating-akka-streams-and-akka-actors-part-ii/)
+- [ ] [Integrating Akka Streams and Akka Actors: Part III](https://blog.colinbreck.com/integrating-akka-streams-and-akka-actors-part-iii/)
+- [ ] [Integrating Akka Streams and Akka Actors: Part IV](https://blog.colinbreck.com/integrating-akka-streams-and-akka-actors-part-iv/)
+- [ ] [Partitioning Akka Streams to Maximize Throughput](https://blog.colinbreck.com/partitioning-akka-streams-to-maximize-throughput/)
+- [ ] [Partitioning Akka Streams for Scalability and High-Availability](https://blog.colinbreck.com/partitioning-akka-streams-for-scalability-and-high-availability/)
+- [ ] [Patterns for Streaming Measurement Data with Akka Streams](https://blog.colinbreck.com/patterns-for-streaming-measurement-data-with-akka-streams/)
+- [ ] [Maximizing Throughput for Akka Streams](https://blog.colinbreck.com/maximizing-throughput-for-akka-streams/)
+- [ ] [Backoff and Retry Error-Handling for Akka Streams](https://blog.colinbreck.com/backoff-and-retry-error-handling-for-akka-streams/)
+- [ ] [Performance Considerations for Akka Debug Logging](https://blog.colinbreck.com/performance-considerations-for-akka-debug-logging/)
 
 
 

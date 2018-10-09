@@ -90,6 +90,10 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Maximizing Throughput for Akka Streams](https://blog.colinbreck.com/maximizing-throughput-for-akka-streams/)
 - [ ] [Backoff and Retry Error-Handling for Akka Streams](https://blog.colinbreck.com/backoff-and-retry-error-handling-for-akka-streams/)
 - [ ] [Performance Considerations for Akka Debug Logging](https://blog.colinbreck.com/performance-considerations-for-akka-debug-logging/)
+- [ ] [Architecting Massively-Scalable Near-Real-Time Risk Analysis Solutions](https://horovits.wordpress.com/2011/12/19/architecting-massively-scalable-near-real-time-risk-analysis-solutions/)
+- [ ] [Real Time analytics for Big Data: Facebook's New Realtime Analytics System](http://natishalom.typepad.com/nati_shaloms_blog/2011/07/real-time-analytics-for-big-data-an-alternative-approach-to-facebooks-new-realtime-analytics-system.html)
+- [ ] [Real Time Analytics for Big Data: An Alternative Approach](http://natishalom.typepad.com/nati_shaloms_blog/2011/07/real-time-analytics-for-big-data-an-alternative-approach.html)
+
 
 
 

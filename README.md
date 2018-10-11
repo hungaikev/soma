@@ -9,6 +9,8 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Working remotely, 4 years in](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/)
 - [ ] [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
 - [ ] [How to understand any programming task](https://medium.freecodecamp.org/how-to-understand-any-programming-task-aea41eabe66e)
+- [ ] [Events As First-Class Citizens](https://hackernoon.com/events-as-first-class-citizens-8633e8479493)
+- [ ] [Building consumer-facing websites with multiple teams](https://gustafnk.github.io/microservice-websites/)
 
 - [ ] [Scala’s Types of Types](https://ktoso.github.io/scala-types-of-types/)
 - [ ] [Functional Data Structures](https://cs.uwaterloo.ca/~plragde/flaneries/FDS/)
@@ -25,26 +27,6 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Logs and Metrics](https://medium.com/@copyconstruct/logs-and-metrics-6d34d3026e38)
 - [ ] [sbt - A task engine](https://jazzy.id.au/2015/03/03/sbt-task-engine.html)
 - [ ] [sbt - A declarative DSL](https://jazzy.id.au/2015/03/04/sbt-declarative-dsl.html)
-- [ ] [Kubernetes Learning Resources](https://docs.google.com/spreadsheets/d/1phFPwbMzMK6fhTRqslAzb9ZNbUPTKU3fM99Y2snPp8g/edit#gid=0)
-- [ ] [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-- [ ] [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
-- [ ] [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)
-- [ ] [etcdctl](https://github.com/yudai/etcd/tree/master/etcdctl#snapshot-save-filename)
-- [ ] [Everything you ever wanted to know about using etcd with Kubernetes v1.6 (but were afraid to ask)](https://www.mirantis.com/blog/everything-you-ever-wanted-to-know-about-using-etcd-with-kubernetes-v1-6-but-were-afraid-to-ask/)
-- [ ] [Racy conntrack and DNS lookup timeouts](https://www.weave.works/blog/racy-conntrack-and-dns-lookup-timeouts)
-- [ ] [Cloud Native Engineering](https://github.com/gofunct/cloudnative-engineer/#cloud-native-engineering)
-- [ ] [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-red-hat-do081x)
-- [ ] [Running akka-cluster on Kubernetes](https://blog.softwaremill.com/running-akka-cluster-on-kubernetes-e4cd2913e951)
-- [ ] [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)
-- [ ] [Kubernetes pods /etc/resolv.conf ndots:5 option and why it may negatively affect your application performances](https://pracucci.com/kubernetes-dns-resolution-ndots-options-and-why-it-may-affect-application-performances.html)
-- [ ] [Kubernetes Best Practices](https://www.youtube.com/watch?v=wGz_cbtCiEA&list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB)
-- [ ] [CKA Exam Experience and some useful Tips](https://linuxacademy.com/community/posts/show/topic/25094-cka-exam-experience-and-some-useful-tips)
-- [ ] [CKA Exam Prep](https://docs.google.com/document/d/1S3niHKrx2AE1siMqw3ebkcrYS4hhx3zWgZJbh3IptF0/edit)
-- [ ] [How Heptio Engineers Ace the Certified Kubernetes Administrator Exam](https://blog.heptio.com/how-heptio-engineers-ace-the-certified-kubernetes-administrator-exam-93d20af32557)
-- [ ] [cka-practice-environment](https://github.com/arush-sal/cka-practice-environment)
-- [ ] [certified_kubernetes_administrator_exam_curriculum](https://github.com/cncf/curriculum/blob/master/certified_kubernetes_administrator_exam_v1.9.0.pdf)
-- [ ] [Unofficial 'CNCF Certified Kubernetes Administrator' Exam Curriculum 1.9 Self-Assessment](https://docs.google.com/spreadsheets/d/1oAiKDns6K1Qhv8DX4Tyb9sDnmfqXkTbMs6CdXaNYWh8/edit#gid=0)
-- [ ] [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
 - [ ] [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 - [ ] [Java Memory and CPU Monitoring Tools and Techniques](https://dzone.com/articles/java-memory-and-cpu-monitoring-tools-and-technique)
 - [ ] [HOW TO TAKE THREAD DUMPS? – 8 OPTIONS](https://blog.fastthread.io/2016/06/06/how-to-take-thread-dumps-7-options/)
@@ -90,6 +72,11 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Architecting Massively-Scalable Near-Real-Time Risk Analysis Solutions](https://horovits.wordpress.com/2011/12/19/architecting-massively-scalable-near-real-time-risk-analysis-solutions/)
 - [ ] [Real Time analytics for Big Data: Facebook's New Realtime Analytics System](http://natishalom.typepad.com/nati_shaloms_blog/2011/07/real-time-analytics-for-big-data-an-alternative-approach-to-facebooks-new-realtime-analytics-system.html)
 - [ ] [Real Time Analytics for Big Data: An Alternative Approach](http://natishalom.typepad.com/nati_shaloms_blog/2011/07/real-time-analytics-for-big-data-an-alternative-approach.html)
+- [ ] [An introduction to friction logging](https://devrel.net/developer-experience/an-introduction-to-friction-logging)
+- [ ] [Breaking the Monolith: An 8 Step Recipe](https://www.dynatrace.com/news/blog/breaking-the-monolith-an-8-step-recipe/)
+- [ ] [Distributed Transactions are only Eventually Consistent](https://pauldone.blogspot.com/2016/03/xatransactionseventuallyconsistent.html)
+
+
 
 ## Cassandra
 - [ ] [https://anant.github.io/awesome-cassandra/](https://anant.github.io/awesome-cassandra/)
@@ -144,6 +131,33 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [How To Setup A Highly Available Multi-AZ Cassandra Cluster On AWS EC2](http://highscalability.com/blog/2016/8/1/how-to-setup-a-highly-available-multi-az-cassandra-cluster-o.html)
 
 ## Kubernetes.
+
+- [ ] [RUNNING JVMS IN KUBERNETES](https://very-serio.us/2017/12/05/running-jvms-in-kubernetes/)
+- [ ] [From Monolith to Microservice Architecture on Kubernetes, part 1 — The Api Gateway](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-1-the-api-gateway-eb82f8c2d10c)
+- [ ] [Kubernetes Learning Resources](https://docs.google.com/spreadsheets/d/1phFPwbMzMK6fhTRqslAzb9ZNbUPTKU3fM99Y2snPp8g/edit#gid=0)
+- [ ] [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [ ] [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
+- [ ] [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)
+- [ ] [etcdctl](https://github.com/yudai/etcd/tree/master/etcdctl#snapshot-save-filename)
+- [ ] [Everything you ever wanted to know about using etcd with Kubernetes v1.6 (but were afraid to ask)](https://www.mirantis.com/blog/everything-you-ever-wanted-to-know-about-using-etcd-with-kubernetes-v1-6-but-were-afraid-to-ask/)
+- [ ] [Racy conntrack and DNS lookup timeouts](https://www.weave.works/blog/racy-conntrack-and-dns-lookup-timeouts)
+- [ ] [Cloud Native Engineering](https://github.com/gofunct/cloudnative-engineer/#cloud-native-engineering)
+- [ ] [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-red-hat-do081x)
+- [ ] [Running akka-cluster on Kubernetes](https://blog.softwaremill.com/running-akka-cluster-on-kubernetes-e4cd2913e951)
+- [ ] [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)
+- [ ] [Kubernetes pods /etc/resolv.conf ndots:5 option and why it may negatively affect your application performances](https://pracucci.com/kubernetes-dns-resolution-ndots-options-and-why-it-may-affect-application-performances.html)
+- [ ] [Kubernetes Best Practices](https://www.youtube.com/watch?v=wGz_cbtCiEA&list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB)
+- [ ] [CKA Exam Experience and some useful Tips](https://linuxacademy.com/community/posts/show/topic/25094-cka-exam-experience-and-some-useful-tips)
+- [ ] [CKA Exam Prep](https://docs.google.com/document/d/1S3niHKrx2AE1siMqw3ebkcrYS4hhx3zWgZJbh3IptF0/edit)
+- [ ] [How Heptio Engineers Ace the Certified Kubernetes Administrator Exam](https://blog.heptio.com/how-heptio-engineers-ace-the-certified-kubernetes-administrator-exam-93d20af32557)
+- [ ] [cka-practice-environment](https://github.com/arush-sal/cka-practice-environment)
+- [ ] [certified_kubernetes_administrator_exam_curriculum](https://github.com/cncf/curriculum/blob/master/certified_kubernetes_administrator_exam_v1.9.0.pdf)
+- [ ] [Unofficial 'CNCF Certified Kubernetes Administrator' Exam Curriculum 1.9 Self-Assessment](https://docs.google.com/spreadsheets/d/1oAiKDns6K1Qhv8DX4Tyb9sDnmfqXkTbMs6CdXaNYWh8/edit#gid=0)
+- [ ] [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
+- [ ] [A reason for unexplained connection timeouts on Kubernetes/Docker](https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02)
+- [ ] [DNS lookups on Kubernetes?](https://blog.quentin-machu.fr/2018/06/24/5-15s-dns-lookups-on-kubernetes/)
+
+
 
 
 

@@ -11,6 +11,7 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [How to understand any programming task](https://medium.freecodecamp.org/how-to-understand-any-programming-task-aea41eabe66e)
 - [ ] [Events As First-Class Citizens](https://hackernoon.com/events-as-first-class-citizens-8633e8479493)
 - [ ] [Building consumer-facing websites with multiple teams](https://gustafnk.github.io/microservice-websites/)
+- [ ] [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
 
 - [ ] [Scala’s Types of Types](https://ktoso.github.io/scala-types-of-types/)
 - [ ] [Functional Data Structures](https://cs.uwaterloo.ca/~plragde/flaneries/FDS/)
@@ -75,6 +76,7 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [An introduction to friction logging](https://devrel.net/developer-experience/an-introduction-to-friction-logging)
 - [ ] [Breaking the Monolith: An 8 Step Recipe](https://www.dynatrace.com/news/blog/breaking-the-monolith-an-8-step-recipe/)
 - [ ] [Distributed Transactions are only Eventually Consistent](https://pauldone.blogspot.com/2016/03/xatransactionseventuallyconsistent.html)
+- [ ][socat](https://medium.com/@copyconstruct/socat-29453e9fc8a6)
 
 
 
@@ -156,6 +158,7 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises)
 - [ ] [A reason for unexplained connection timeouts on Kubernetes/Docker](https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02)
 - [ ] [DNS lookups on Kubernetes?](https://blog.quentin-machu.fr/2018/06/24/5-15s-dns-lookups-on-kubernetes/)
+- [ ] [Log aggregation with ElasticSearch, Fluentd and Kibana stack on ARM64 Kubernetes cluster](https://medium.com/@carlosedp/log-aggregation-with-elasticsearch-fluentd-and-kibana-stack-on-arm64-kubernetes-cluster-516fb64025f9)
 
 
 

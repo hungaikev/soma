@@ -159,6 +159,7 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [A reason for unexplained connection timeouts on Kubernetes/Docker](https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02)
 - [ ] [DNS lookups on Kubernetes?](https://blog.quentin-machu.fr/2018/06/24/5-15s-dns-lookups-on-kubernetes/)
 - [ ] [Log aggregation with ElasticSearch, Fluentd and Kibana stack on ARM64 Kubernetes cluster](https://medium.com/@carlosedp/log-aggregation-with-elasticsearch-fluentd-and-kibana-stack-on-arm64-kubernetes-cluster-516fb64025f9)
+- [ ] [Pods are not recreated after kubernetes node failure](https://jackiechen.org/2017/12/07/pods-are-not-recreated-after-kubernetes-node-failure/)
 
 
 

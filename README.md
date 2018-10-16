@@ -159,11 +159,28 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [A reason for unexplained connection timeouts on Kubernetes/Docker](https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02)
 - [ ] [DNS lookups on Kubernetes?](https://blog.quentin-machu.fr/2018/06/24/5-15s-dns-lookups-on-kubernetes/)
 - [ ] [Log aggregation with ElasticSearch, Fluentd and Kibana stack on ARM64 Kubernetes cluster](https://medium.com/@carlosedp/log-aggregation-with-elasticsearch-fluentd-and-kibana-stack-on-arm64-kubernetes-cluster-516fb64025f9)
+- [ ] [Distributed Tracing Infrastructure with Jaeger on Kubernetes](https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677)
 - [ ] [Pods are not recreated after kubernetes node failure](https://jackiechen.org/2017/12/07/pods-are-not-recreated-after-kubernetes-node-failure/)
 
 
 
-
-
-
-
+## Monitoring. 
+- [ ] [Pillars of Observability](https://medium.com/@tasdikrahman/pillars-of-observability-728ffb5ad061)
+- [ ] [Tracing, tracing, tracing in your applications (illustrated!)](https://medium.com/@_lrlna/tracing-tracing-tracing-in-your-applications-illustrated-11a67def6431)
+- [ ] [Scaling @ HelloFresh: Distributed Tracing](https://engineering.hellofresh.com/scaling-hellofresh-distributed-tracing-7b182928247d)
+- [ ] [Dapper, A Large Scale Distributed Systems Tracing Infrastructure](https://blog.acolyer.org/2015/10/06/dapper-a-large-scale-distributed-systems-tracing-infrastructure/)
+- [ ] [The Morning Paper on Operability](https://blog.acolyer.org/2016/09/21/the-morning-paper-on-operability/)
+- [ ] [The Mystery Machine: End-to-end performance analysis of large-scale internet services](https://blog.acolyer.org/2015/10/07/the-mystery-machine-end-to-end-performance-analysis-of-large-scale-internet-services/)
+- [ ] [Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems](https://blog.acolyer.org/2015/10/13/pivot-tracing-dynamic-causal-monitoring-for-distributed-systems/)
+- [ ] [Online reconstruction of structural information from datacenter logs](https://blog.acolyer.org/2017/05/31/online-reconstruction-of-structural-information-from-datacenter-logs/)
+- [ ] [Canopy: an end-to-end performance tracing and analysis system](https://blog.acolyer.org/2017/11/22/canopy-an-end-to-end-performance-tracing-and-analysis-system/)
+- [ ] [Towards Turnkey Distributed Tracing](https://medium.com/opentracing/towards-turnkey-distributed-tracing-5f4297d1736)
+- [ ] [Open Tracing Journey](https://medium.com/@prakriti.bansal98)
+- [ ] [Evolving Distributed Tracing at Uber Engineering](https://eng.uber.com/distributed-tracing/)
+- [ ] [Distributed tracing in practice](https://medium.com/@ikirichenko/distributed-tracing-in-practice-ad477343ab07)
+- [ ] [The difference between tracing, tracing, and tracing](https://medium.com/opentracing/the-difference-between-tracing-tracing-and-tracing-84b49b2d54ea)
+- [ ] [Distributed Tracing and its place in the monitoring landscape](https://blog.freshtracks.io/distributed-tracing-and-its-place-in-the-monitoring-landscape-19be605586f2)
+- [ ] [Monitoring distributed traces](https://medium.com/@ikirichenko/monitoring-distributed-traces-50c8a8a160ea)
+- [ ] [Why is Distributed Tracing Broken?](https://medium.com/@rakyll/why-is-distributed-tracing-broken-78f541af122)
+- [ ] [AWS X-Ray for distributed tracing](https://medium.com/@anaynayak/aws-x-ray-for-distributed-tracing-b914c16a03ba)
+- [ ] [Performance is a shape, not a number](https://medium.com/lightstephq/performance-is-a-shape-not-a-number-a3c1a9ae19cc)

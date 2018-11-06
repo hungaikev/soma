@@ -12,7 +12,6 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Events As First-Class Citizens](https://hackernoon.com/events-as-first-class-citizens-8633e8479493)
 - [ ] [Building consumer-facing websites with multiple teams](https://gustafnk.github.io/microservice-websites/)
 - [ ] [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
-
 - [ ] [Scala’s Types of Types](https://ktoso.github.io/scala-types-of-types/)
 - [ ] [Functional Data Structures](https://cs.uwaterloo.ca/~plragde/flaneries/FDS/)
 - [ ] [Functional Programming for Mortals](https://leanpub.com/fpmortals/read)
@@ -76,7 +75,27 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [An introduction to friction logging](https://devrel.net/developer-experience/an-introduction-to-friction-logging)
 - [ ] [Breaking the Monolith: An 8 Step Recipe](https://www.dynatrace.com/news/blog/breaking-the-monolith-an-8-step-recipe/)
 - [ ] [Distributed Transactions are only Eventually Consistent](https://pauldone.blogspot.com/2016/03/xatransactionseventuallyconsistent.html)
-- [ ][socat](https://medium.com/@copyconstruct/socat-29453e9fc8a6)
+- [ ] [socat](https://medium.com/@copyconstruct/socat-29453e9fc8a6)
+- [ ] [I’m Leaving Google — Here’s the Real Deal Behind Google Cloud](https://medium.com/@amirh1/im-leaving-google-and-here-s-the-real-deal-behind-google-cloud-1b86513be01b)
+- [ ] [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
+- [ ] [Istio Routing Basics](https://medium.com/google-cloud/istio-routing-basics-14feab3c040e)
+- [ ] [REST is the new SOAP](https://medium.freecodecamp.org/rest-is-the-new-soap-97ff6c09896d)
+- [ ] [Here’s my follow-up to REST is the new SOAP: let’s talk about the Original REST](https://medium.freecodecamp.org/follow-up-to-rest-is-the-new-soap-the-origins-of-rest-21c59d243438)
+- [ ] [Kubernetes Liveness and Readiness Probes: How to Avoid Shooting Yourself in the Foot](https://blog.colinbreck.com/kubernetes-liveness-and-readiness-probes-how-to-avoid-shooting-yourself-in-the-foot/)
+- [ ] [No Magic: Regular Expressions](https://rcoh.svbtle.com/no-magic-regular-expressions)
+- [ ] [How Does a Database Work?](https://cstack.github.io/db_tutorial/)
+- [ ] [Let's code a TCP/IP stack, 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+- [ ] [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+- [ ] [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
+- [ ] [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
+- [ ] [Creating a JVM Language](https://jakubdziworski.github.io/categories.html#Enkel-ref)
+- [ ] [Game-Server-with-Scala-and-Akka-Streams](https://jakubdziworski.github.io/categories.html#Game-Server-with-Scala-and-Akka-Streams-ref)
+- [ ] [Akka Streams pitfalls to avoid — part 1](https://blog.softwaremill.com/akka-streams-pitfalls-to-avoid-part-1-75ef6403c6e6)
+- [ ] [Akka Streams pitfalls to avoid — part 2](https://blog.softwaremill.com/akka-streams-pitfalls-to-avoid-part-2-f93e60746c58)
+- [ ] [Scala compiler phases with pictures](https://www.iteratorshq.com/blog/scala-compiler-phases-with-pictures/)
+- [ ] [From Monolith to Microservice Architecture on Kubernetes, part 1 — The Api Gateway](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-1-the-api-gateway-eb82f8c2d10c)
+- [ ] [
+Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and XML](https://ileriseviye.wordpress.com/2018/07/10/data-processing-resources-command-line-interface-cli-for-csv-tsv-json-and-xml/)
 
 
 

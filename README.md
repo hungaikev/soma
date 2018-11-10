@@ -9,6 +9,8 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [Working remotely, 4 years in](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/)
 - [ ] [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
 - [ ] [How to understand any programming task](https://medium.freecodecamp.org/how-to-understand-any-programming-task-aea41eabe66e)
+- [ ] [The world beyond batch: Streaming 101](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101)
+- [ ] [The world beyond batch: Streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102)
 - [ ] [Events As First-Class Citizens](https://hackernoon.com/events-as-first-class-citizens-8633e8479493)
 - [ ] [Building consumer-facing websites with multiple teams](https://gustafnk.github.io/microservice-websites/)
 - [ ] [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)

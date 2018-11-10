@@ -158,6 +158,7 @@ Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and 
 - [ ] [RUNNING JVMS IN KUBERNETES](https://very-serio.us/2017/12/05/running-jvms-in-kubernetes/)
 - [ ] [From Monolith to Microservice Architecture on Kubernetes, part 1 — The Api Gateway](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-1-the-api-gateway-eb82f8c2d10c)
 - [ ] [Kubernetes Learning Resources](https://docs.google.com/spreadsheets/d/1phFPwbMzMK6fhTRqslAzb9ZNbUPTKU3fM99Y2snPp8g/edit#gid=0)
+- [ ] [gRPC Load Balancing on Kubernetes without Tears](https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/)
 - [ ] [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [ ] [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action)
 - [ ] [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)

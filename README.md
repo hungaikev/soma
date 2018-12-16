@@ -99,7 +99,7 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [
 Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and XML](https://ileriseviye.wordpress.com/2018/07/10/data-processing-resources-command-line-interface-cli-for-csv-tsv-json-and-xml/)
 
--[ ] [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- [ ] [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - [ ] [What is a distributed systems engineer?](https://blog.ably.io/what-is-a-distributed-systems-engineer-f6c1d921acf8)
 - [ ] [Distributed Systems in One](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=17s)
 - [ ] [For: What is it good for?](https://www.youtube.com/watch?v=WDaw2yXAa50&t=30s)

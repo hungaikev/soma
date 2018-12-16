@@ -99,6 +99,13 @@ The harder a task or an undertaking is, the more I stand to grow as a result of 
 - [ ] [
 Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and XML](https://ileriseviye.wordpress.com/2018/07/10/data-processing-resources-command-line-interface-cli-for-csv-tsv-json-and-xml/)
 
+-[ ] [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- [ ] [What is a distributed systems engineer?](https://blog.ably.io/what-is-a-distributed-systems-engineer-f6c1d921acf8)
+- [ ] [Distributed Systems in One](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=17s)
+- [ ] [For: What is it good for?](https://www.youtube.com/watch?v=WDaw2yXAa50&t=30s)
+- [ ] [Options in Futures, how to unsuck them](https://www.youtube.com/watch?v=hGMndafDcc8&t=7s)
+
+
 
 
 ## Cassandra
@@ -188,7 +195,20 @@ Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and 
 
 ## Rust
 
-
+- [ ] [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [ ] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [ ] [Build Your Own Shell using Rust](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
+- [ ] [Let's code a TCP/IP stack, 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+- [ ] [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide)
+- [ ] [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
+- [ ] [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/multi/index.html)
+- [ ] [Welcome to Rust-101](https://www.ralfj.de/projects/rust-101/main.html)
+- [ ] [Writing an OS in Rust](https://os.phil-opp.com/)
+- [ ] [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/)
+- [ ] [Kick the Tires - Rust Crash Course lesson 1](https://www.snoyman.com/blog/2018/10/rust-crash-course-01-kick-the-tires)
+- [ ] [Essential Software Tools for Developing Operational Technologies](https://blog.colinbreck.com/essential-software-tools-for-developing-operational-technologies/)
+- [ ] [https://doc.rust-lang.org/stable/book/index.html](https://doc.rust-lang.org/stable/book/index.html)
+- [ ] [rustlings](https://github.com/rustlings/rustlings)
 
 
 ## Monitoring. 
@@ -211,3 +231,10 @@ Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and 
 - [ ] [Why is Distributed Tracing Broken?](https://medium.com/@rakyll/why-is-distributed-tracing-broken-78f541af122)
 - [ ] [AWS X-Ray for distributed tracing](https://medium.com/@anaynayak/aws-x-ray-for-distributed-tracing-b914c16a03ba)
 - [ ] [Performance is a shape, not a number](https://medium.com/lightstephq/performance-is-a-shape-not-a-number-a3c1a9ae19cc)
+- [ ] [Deep Distributed Tracing with OpenTracing and the JDK Flight Recorder](http://hirt.se/blog/?p=1081)
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()

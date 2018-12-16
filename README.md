@@ -183,6 +183,11 @@ Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and 
 - [ ] [Log aggregation with ElasticSearch, Fluentd and Kibana stack on ARM64 Kubernetes cluster](https://medium.com/@carlosedp/log-aggregation-with-elasticsearch-fluentd-and-kibana-stack-on-arm64-kubernetes-cluster-516fb64025f9)
 - [ ] [Distributed Tracing Infrastructure with Jaeger on Kubernetes](https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677)
 - [ ] [Pods are not recreated after kubernetes node failure](https://jackiechen.org/2017/12/07/pods-are-not-recreated-after-kubernetes-node-failure/)
+- [ ] [Kubernetes 202 — Making It Fully Operational](https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab)
+
+
+## Rust
+
 
 
 

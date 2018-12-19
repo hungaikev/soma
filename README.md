@@ -209,6 +209,7 @@ Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and 
 - [ ] [Essential Software Tools for Developing Operational Technologies](https://blog.colinbreck.com/essential-software-tools-for-developing-operational-technologies/)
 - [ ] [https://doc.rust-lang.org/stable/book/index.html](https://doc.rust-lang.org/stable/book/index.html)
 - [ ] [rustlings](https://github.com/rustlings/rustlings)
+- [ ] [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)
 
 
 ## Monitoring. 

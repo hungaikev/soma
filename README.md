@@ -104,6 +104,7 @@ Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and 
 - [ ] [Distributed Systems in One](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=17s)
 - [ ] [For: What is it good for?](https://www.youtube.com/watch?v=WDaw2yXAa50&t=30s)
 - [ ] [Options in Futures, how to unsuck them](https://www.youtube.com/watch?v=hGMndafDcc8&t=7s)
+- [ ] [Essential Software Tools for Developing Operational Technologies](https://blog.colinbreck.com/essential-software-tools-for-developing-operational-technologies/)
 
 
 
@@ -206,7 +207,6 @@ Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and 
 - [ ] [Writing an OS in Rust](https://os.phil-opp.com/)
 - [ ] [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/)
 - [ ] [Kick the Tires - Rust Crash Course lesson 1](https://www.snoyman.com/blog/2018/10/rust-crash-course-01-kick-the-tires)
-- [ ] [Essential Software Tools for Developing Operational Technologies](https://blog.colinbreck.com/essential-software-tools-for-developing-operational-technologies/)
 - [ ] [https://doc.rust-lang.org/stable/book/index.html](https://doc.rust-lang.org/stable/book/index.html)
 - [ ] [rustlings](https://github.com/rustlings/rustlings)
 - [ ] [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)

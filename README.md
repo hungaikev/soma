@@ -210,7 +210,7 @@ Data Processing Resources: Command-line Interface (CLI) for CSV, TSV, JSON, and 
 - [ ] [https://doc.rust-lang.org/stable/book/index.html](https://doc.rust-lang.org/stable/book/index.html)
 - [ ] [rustlings](https://github.com/rustlings/rustlings)
 - [ ] [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html)
-
+- [ ] [Understanding Rust Lifetimes](https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa)
 
 ## Monitoring. 
 - [ ] [Pillars of Observability](https://medium.com/@tasdikrahman/pillars-of-observability-728ffb5ad061)
